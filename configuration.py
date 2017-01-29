@@ -1,3 +1,7 @@
 __author__ = 'zmiller'
 
-PATH = "C:/WMF/coniguration"
+# location of received configuratino files
+PATH = "C:/WMF/configuration"
+
+# base url for any put/post/get/etc
+BASE_URL = "http://localhost/"
